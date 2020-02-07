@@ -11,6 +11,7 @@ function handleMessage(request, sender, sendResponse) {
   }
 }
 
+
 var cat = false;
 
 document.getElementById("bt").addEventListener("click", (e) => {
