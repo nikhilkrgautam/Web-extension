@@ -1,5 +1,3 @@
-# Cyber Ally Web Extension
-A web extension for preventing cyber bullying
 
 ## For installing the extension:
 1. Download or clone the folder in your local machine.
